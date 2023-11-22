@@ -5,12 +5,12 @@
 <p> I'm a Software Quality Assurance (SQA) Automation Intern, refining my skills in automated testing. Simultaneously, I practice as a front-end developer, crafting user-friendly interfaces. As a freelancer, I offer services in SQA automation and front-end development, collaborating on innovative solutions. Passionate about exploring blockchain's technical aspects, I seek real-world applications in decentralized finance and supply chain management. Check out my projects on Github, and let's connect for potential collaborations and discussions. </p>
 
 
-# 🌐 Connect with me :  
+# 🌐 Connect with me :
 <div align="center">
-<a href="https://github.com/Abdullah-Zuberi" target="_blank">
+<a href="https://github.com/Abdullah-Zuberi" target="_ blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/abdullah-zuberi-146069205" target="_blank">
+<a href="www.linkedin.com/in/abdullah-zuberi-146069205" target="_ blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
