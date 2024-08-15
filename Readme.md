@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="450px" />
 
 <h1>Hi 👋</h1>
-<p> I'm a Software Quality Assurance (SQA) Automation Intern, refining my skills in automated testing. Simultaneously, I practice as a front-end developer, crafting user-friendly interfaces. As a freelancer, I offer services in SQA automation and front-end development, collaborating on innovative solutions. Passionate about exploring blockchain's technical aspects, I seek real-world applications in decentralized finance and supply chain management. Check out my projects on Github, and let's connect for potential collaborations and discussions. </p>
+<p> SQA Manual Engineer with a solid foundation in manual testing and a Computer Science degree. Experienced in crafting test cases and ensuring top-notch software quality. Passionate about delivering reliable and efficient solutions. </p>
 
 
 # 🌐 Connect with me :
